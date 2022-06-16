@@ -1,0 +1,39 @@
+{
+  "name": "lg-rn-pedestal",
+  "version": "1.0.0",
+  "description": "朗国RN小程序基座",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "build": "node pack.js"
+  },
+  "author": "lwt",
+  "license": "ISC",
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/native": "^6.0.10",
+    "@react-navigation/native-stack": "^6.6.2",
+    "compressing": "^1.5.1",
+    "immutable": "^4.0.0",
+    "lg-iot-ui": "^1.0.1",
+    "moment": "^2.29.3",
+    "react": "^17.0.2 ",
+    "react-native": "^0.68.2",
+    "react-native-gesture-handler": "^2.4.2",
+    "react-native-reanimated": "^2.8.0",
+    "react-native-safe-area-context": "^4.2.5",
+    "react-native-screens": "^3.13.1",
+    "react-navigation": "^4.4.4",
+    "react-redux": "^8.0.1",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-promise-middleware": "^6.1.2",
+    "redux-thunk": "^2.4.1",
+    "chalk": "^4.0.0",
+    "commander": "^9.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.1",
+    "log-symbols": "^3.0.0",
+    "ora": "^5.4.1"
+  }
+}
